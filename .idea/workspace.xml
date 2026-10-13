@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f24beb-1c3f-4237-b568-39b1ce2842a7" name="Changes" comment="" />
+    <list default="true" id="10f24beb-1c3f-4237-b568-39b1ce2842a7" name="Changes" comment="Final project files and Business Logic Report">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shahdmoaz42-droid"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shahdmoaz42-droid/JavaCollectionsTask3.2.git",
+    "accountId": "be5a4b41-5e5f-4f1b-aa2c-20ec36c6def8"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -36,7 +50,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/METRA/Desktop/java project/project one/JavaCollectionsTask3/src/main/java/com/depi/Main.java",
     "project.structure.last.edited": "Modules",
@@ -66,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1789064567072</updated>
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="Final project files and Business Logic Report">
+      <option name="closed" value="true" />
+      <created>1791855233682</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1791855233682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final project files and Business Logic Report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final project files and Business Logic Report" />
   </component>
 </project>
